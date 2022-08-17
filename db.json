@@ -10,19 +10,19 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 78
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 50
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 173
     },
     {
       "id": 5,
@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Fartnite Boy",
+      "image": "https://kr4m.com/wp-content/uploads/2019/05/Webp.net-compress-image-3.jpg",
+      "likes": 325,
+      "id": 9
+    },
+    {
+      "name": "Fartnite Boy",
+      "image": "https://kr4m.com/wp-content/uploads/2019/05/Webp.net-compress-image-3.jpg",
+      "likes": 395,
+      "id": 10
     }
   ]
 }
